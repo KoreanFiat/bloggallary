@@ -28,8 +28,7 @@
 
        <P ALIGN="center"> 모두 정기철 교수님의 processing 강의를 들어보세요<BR></P>
 
-	
-	</FONT>
+     <P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/selfintroduce/" TARGET="_blank"> 자기소개 페이로 이동 하시려면 이곳을 눌러주세요</A></P>	</FONT>
 
 </BODY>
 
