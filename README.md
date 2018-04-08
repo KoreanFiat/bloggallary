@@ -1,5 +1,3 @@
-# bloggallary
-to save the coding files and to show people the coding 
 <HTML>
 
 
@@ -21,6 +19,7 @@ to save the coding files and to show people the coding
 	
 	<FONT SIZE="4" FONT FACE="궁서체">
 <BR><BR><BR><BR><BR><BR>
+	
         <P ALIGN="center">정기철 교수님의 processing 수업입니다. <BR></P>
 
        <P ALIGN="center"> processing을 통하여 디자인 프로그래밍을 할 수 있습니다 <BR></P>
