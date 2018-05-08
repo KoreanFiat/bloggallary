@@ -32,7 +32,7 @@
 	
 	<P ALIGN="center"><P><A HREF="https://blog.naver.com/jye8061" TARGET="_blank"> 네이버 개인 블로그 입니다.<BR></A></P>
 	
-	<P ALIGN="center"><P><A HREF="https://blog.naver.com/jye8061" TARGET="_blank"> 작품 전시회 첫 번째 작품입니다. <엔디워홀의 수프 캔><BR> 스페이스바와 마우스를 이용할 수 있습니다.<BR></A></P>
+	<P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/myworks/1" TARGET="_blank"> 작품 전시회 첫 번째 작품입니다. "엔디워홀의 수프 캔" 스페이스바와 마우스를 이용할 수 있습니다.<BR></A></P>
 	
 	
        <P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/selfintroduce/" TARGET="_blank"> 자기소개 페이로 이동 하시려면 이곳을 눌러주세요</A></P>	
