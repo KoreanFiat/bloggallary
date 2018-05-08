@@ -32,7 +32,7 @@
 	
 	<P ALIGN="center"><P><A HREF="https://blog.naver.com/jye8061" TARGET="_blank"> 네이버 개인 블로그 입니다.<BR></A></P>
 	
-	<P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/myworks" TARGET="_blank"> 작품 전시회 첫 번째 작품입니다. "엔디워홀의 수프 캔" 스페이스바와 마우스를 이용할 수 있습니다.<BR></A></P>
+	<P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/myworks" TARGET="_blank"> 작품 전시회 첫 번째 작품입니다. "엔디워홀의 수프 캔" 스페이스바와 마우스를 이용할 수 있습니다. 직접 작품을 만들고 나서 원본과 비교해보세요!<BR></A></P>
 	
 	
 	<P ALIGN="center"><P><A HREF=https://koreanfiat.github.io/myworks2/ TARGET="_blank"> 작품 전시회 두 번째 작품입니다. "쇤 베르크, 달에 홀린 피에로" 마우스로 달의 모양을 스페이스바로 졸라맨을 이용할 수 있습니다.<BR></A></P>
