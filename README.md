@@ -37,7 +37,7 @@
 	
 	<P ALIGN="center"><P><A HREF=https://koreanfiat.github.io/myworks2/ TARGET="_blank"> 작품 전시회 두 번째 작품입니다. "쇤 베르크, 달에 홀린 피에로" 마우스로 달의 모양을 스페이스바로 졸라맨을 이용할 수 있습니다.<BR></A></P>
 	
-	<P ALIGN="center"><P><A HREF=https://koreanfiat.github.io/myworks3.1/ TARGET="_blank"> 작품 전시회 세 번째 작품입니다. "진주 귀걸이를 한 소녀의 명화를 엔디워홀의 팝아트 개념을 적용한 작품입니다" 마우스 클릭으로 색들이 바뀝니다. 그리고 a,s,d,f,z,x,c,v 를 눌러보세요!<BR></A></P>
+	<P ALIGN="center"><P><A HREF=https://koreanfiat.github.io/myworks3.1/ TARGET="_blank"> 작품 전시회 세 번째 작품입니다. "진주 귀걸이를 한 소녀의 명화를 엔디워홀의 팝아트 개념을 적용한 작품입니다" 마우스 클릭으로 색들이 바뀝니다. 그리고 a,s,d,f,z,x,c,v 를 눌러보세요<BR></A></P>
 
 	
        <P ALIGN="center"><P><A HREF="https://koreanfiat.github.io/selfintroduce/" TARGET="_blank"> 자기소개 페이로 이동 하시려면 이곳을 눌러주세요</A></P>	
